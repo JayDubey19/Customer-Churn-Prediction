@@ -102,14 +102,18 @@ To run the app on your local machine:
    ```
 The app will open in your browser at http://localhost:8501.
 #### Streamlit App: Customer will churn
-![Image 1](images/confusion_matrix.png)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/674cc4ec-226b-4c34-9665-a5b9d2cc82d0" alt="churn-2" width="600"/>
+</p>
+
 #### Streamlit App: Customer will not churn
-![Image 2](images/confusion_matrix.png)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f74a9189-9870-4645-932a-e6ad1e1ed259" alt="churn-1" width="600"/>
+</p>
 
 
 ## **📊 Results**
 
-- **Best Model:** 🌟 Regression  
 - **Accuracy:** 95%  
 - **Precision:** 92%  
 - **Recall:** 90%  
@@ -118,10 +122,16 @@ The app will open in your browser at http://localhost:8501.
 ## **Visualizations of the Model's Output:**
 
 #### Model Evaluation: Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3422ab7b-20a3-41e1-87ae-90afe818cb69" alt="confusion_matrix" width="400"/>
+</p>
 
 #### Feature Importance
-![Feature Importance](images/feature_importance.png)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e4169898-0c29-4b03-bdcb-4b3f002d84d4" alt="feature_importance_logistic_regression" width="400"/>
+</p>
+
+> **Note:** These images are generated during model evaluation and visualization stages.
 
 ## **🤝 Contributing**
 
@@ -137,7 +147,7 @@ Contributions are welcome! 🎉 If you have suggestions for improvements or find
 Your contributions help make this project better, and all contributions are greatly appreciated! 🙌
 
 
-> **Note:** These images are generated during model evaluation and visualization stages.
+
 
 
 
